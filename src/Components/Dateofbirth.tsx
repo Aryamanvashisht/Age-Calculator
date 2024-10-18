@@ -51,7 +51,7 @@ const Dateofbirth = () => {
         <h1 className="text-2xl text-center justify-center mt-5 sm:text-left sm:pl-3 sm:font-bold">
           Date of Birth
         </h1>
-        <div className="ml-[29%] sm:ml-3 sm:mt-5">
+        <div className="ml-[29%] sm:ml-3 sm:mt-5 xs:ml-32">
           <input
             ref={inputref}
             type="date"
